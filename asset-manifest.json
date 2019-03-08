@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.ec24e3af.chunk.css",
+  "main.js": "/static/js/main.07d371c5.chunk.js",
+  "main.js.map": "/static/js/main.07d371c5.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.ecc03f80.chunk.css": "/static/css/2.ecc03f80.chunk.css",
+  "static/js/2.f112fb28.chunk.js": "/static/js/2.f112fb28.chunk.js",
+  "static/js/2.f112fb28.chunk.js.map": "/static/js/2.f112fb28.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.9e07de9dfa3cfae9cb087759806d1209.js": "/precache-manifest.9e07de9dfa3cfae9cb087759806d1209.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.ecc03f80.chunk.css.map": "/static/css/2.ecc03f80.chunk.css.map",
+  "static/css/main.ec24e3af.chunk.css.map": "/static/css/main.ec24e3af.chunk.css.map",
+  "static/media/Event.png": "/static/media/Event.b7cc98c0.png",
+  "static/media/EventActionOwner.png": "/static/media/EventActionOwner.b7e9d478.png",
+  "static/media/EventCreate.png": "/static/media/EventCreate.073bf700.png",
+  "static/media/EventDetail.png": "/static/media/EventDetail.3ddd0c80.png",
+  "static/media/EventList.png": "/static/media/EventList.be14dc40.png",
+  "static/media/metamask.png": "/static/media/metamask.eeb9eeca.png"
+}
