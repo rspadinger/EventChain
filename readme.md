@@ -94,15 +94,15 @@ The DAPP allows event managers to create events on the ETH Blockchain. Other use
 
 **Screenshot of the event list page - there are different types of events: Active, expired and canceled events:**
 
-![Screenshot of EventList](https://rspadinger.github.io/EventChain/EventList.png)
+![Screenshot of EventList](https://rspadinger.github.io/EventChain/static/media/EventList.99449c85fd7f885b4301.png)
 
 **When the user clicks the "Details" button, a preview of the event details is displayed in a popup window:**
 
-![Screenshot of Event Details](https://rspadinger.github.io/EventChain/EventDetail.png)
+![Screenshot of Event Details](https://rspadinger.github.io/EventChain/static/media/EventDetail.e18055e4d6d4984e4426.png)
 
 **When the user clicks the "Register" button, various actions are possible - depending if the user is the event owner or an event participant:**
 
-![Screenshot of Event Actions](https://rspadinger.github.io/EventChain/EventActionOwner.png)
+![Screenshot of Event Actions](https://rspadinger.github.io/EventChain/static/media/EventActionOwner.cee71a786ef00b6a4ce7.png)
 
 **Only event owners can:**
 
@@ -120,4 +120,4 @@ The DAPP allows event managers to create events on the ETH Blockchain. Other use
 
 **On the "Create Event" tab, a user can create a new event and he automatically becomes the owner / manager of that event:**
 
-![Screenshot of Event Create](https://rspadinger.github.io/EventChain/EventCreate.png)
+![Screenshot of Event Create](https://rspadinger.github.io/EventChain/static/media/EventCreate.9e69454776e4c409b3d5.png)

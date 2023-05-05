@@ -1,7 +1,7 @@
 {
     "name": "",
     "version": "1.0.0",
-    "homepage": "https://rspadinger.github.io/",
+    "homepage": "https://rspadinger.github.io/EventChain",
     "description": "",
     "scripts": {
         "start": "react-scripts start",
