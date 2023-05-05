@@ -84,7 +84,7 @@ Here is the link to the smart contract on the Sepolia test network: [https://sep
 
 [EventChain Dapp](https://rspadinger.github.io/EventChain/)
 
-## Using the Applivation
+## Using the Application
 
 If you would like to create events or register for existing events, you need to install the MetaMask browser addon, connect to the Sepolia testnet and add some test Ether to your account. You can obtain free test Ether at [Alchemy Sepolia Faucet](https://sepoliafaucet.com/)
 
