@@ -1,0 +1,52 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "homepage": "https://rspadinger.github.io/",
+    "description": "",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+        "gh-pages": "^5.0.0",
+        "hardhat": "^2.12.4",
+        "prettier": "^2.8.7"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "ethers": "^5.7.2",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.4",
+        "nanoid": "^4.0.2",
+        "react": "^18.1.0",
+        "react-datepicker": "^4.11.0",
+        "react-dom": "^18.1.0",
+        "react-router-dom": "^6.10.0",
+        "react-scripts": "5.0.1",
+        "react-toastify": "^9.1.2",
+        "semantic-ui-css": "^2.5.0",
+        "semantic-ui-react": "^2.1.4"
+    }
+}
